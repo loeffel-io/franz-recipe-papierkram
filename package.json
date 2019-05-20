@@ -1,0 +1,15 @@
+{
+  "id": "papierkram",
+  "name": "papierkram",
+  "version": "1.0.0",
+  "description": "Buchhaltung neu gedacht",
+  "main": "index.js",
+  "author": "loeffel.io <lucas@loeffel.io>",
+  "license": "MIT",
+  "config": {
+    "dev": "Library/Application Support/Franz/recipes/dev/papierkram",
+    "serviceURL": "https://{teamId}.papierkram.de",
+    "hasTeamId": true,
+    "urlInputSuffix": ".papierkram.de"
+  }
+}
